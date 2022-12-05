@@ -1,0 +1,6 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/i18n"
+    ],
+    "vue-i18n.i18nPaths": "src/i18n"
+}
